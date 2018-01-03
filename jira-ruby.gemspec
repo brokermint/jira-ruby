@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   # Runtime Dependencies
-  s.add_runtime_dependency 'oauth', '~> 0.5', '>= 0.5.0'
+  s.add_runtime_dependency 'oauth', '~> 0.4.7', '>= 0.4.7'
   s.add_runtime_dependency 'activesupport'
   s.add_runtime_dependency 'multipart-post'
 
